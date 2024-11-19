@@ -17,5 +17,5 @@
 - Pour les conventions de commit, il est préférable d'utiliser la [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## Si un cours n'est pas présent
-1. Créer le Repository
+1. Créer le Repository (en privé)
 2. Protéger la branche [Main](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/managing-a-branch-protection-rule)
