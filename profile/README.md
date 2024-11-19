@@ -19,3 +19,8 @@
 ## Si un cours n'est pas présent
 1. Créer le Repository (en privé)
 2. Protéger la branche [Main](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/managing-a-branch-protection-rule)
+
+## Si quelqu'un ne respecte pas les règles
+- Tolérance 0 si vous venez de BUT
+- Sinon tolérance accepté mais trois erreurs et vous sautez !
+- Prévenez immédiatement si vous faites une erreur ! (On peut rollback mais c'est galère si quelqu'un fait des modifs par dessus !)
