@@ -14,4 +14,4 @@
 
 ## Convention de code :
 - Chaque langage a ses conventions (on les vois en cours donc utilisé les !)
-- Pour les conventions de commit, il est préférable d'utiliser la (https://www.conventionalcommits.org/en/v1.0.0/)[https://www.conventionalcommits.org/en/v1.0.0/]
+- Pour les conventions de commit, il est préférable d'utiliser la [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/)
