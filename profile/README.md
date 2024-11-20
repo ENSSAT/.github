@@ -10,7 +10,7 @@
 - Respect des conventions de code du différents langages
 - Compilation complète du code
 - Faire une merge request (MR)
-  - Pour la MR, il faut que 3 personne ai validé
+  - Pour la MR, il faut que 3 personnes aient validé
 
 ## Convention de code :
 - Chaque langage a ses conventions (on les voit en cours donc utilisez-les !)
